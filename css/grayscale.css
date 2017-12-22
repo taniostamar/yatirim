@@ -100,7 +100,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
+  background: url("../img/sun.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -174,14 +174,14 @@ a {
   border-radius: 0; }
 
 .btn-default {
-  color: #42DCA3;
-  border: 1px solid #42DCA3;
-  background-color: transparent; }
+  color: #006780;
+  border: 1px solid #006780;
+  background-color: white; }
   .btn-default:focus, .btn-default:hover {
     color: black;
-    border: 1px solid #42DCA3;
+    border: 1px solid #006780;
     outline: none;
-    background-color: #42DCA3; }
+    background-color: #006780; }
 
 ul.banner-social-buttons {
   margin-top: 0; }

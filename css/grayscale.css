@@ -140,7 +140,7 @@ a {
     background: rgba(255, 255, 255, 0.1); }
 
 .content-section {
-  padding-top: 50px;
+  padding-top: 100px;
   padding-bottom: 50px; }
 
 .bg-light {
@@ -187,14 +187,14 @@ a {
   border-radius: 0; }
 
 .btn-default {
-  color: #006780;
-  border: 1px solid #006780;
+  color: #4AADA2;
+  border: 1px solid #4AADA2;
   background-color: white; }
   .btn-default:focus, .btn-default:hover {
     color: black;
-    border: 1px solid #006780;
+    border: 1px solid #4AADA2;
     outline: none;
-    background-color: #006780; }
+    background-color: #4AADA2; }
 
 ul.banner-social-buttons {
   margin-top: 0; }

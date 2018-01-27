@@ -37,6 +37,16 @@ p {
       line-height: 1.6;
       margin: 0 0 35px; } }
 
+ul {
+  font-size: 12px;
+  line-height: 1.5;
+  margin: 0 0 25px; }
+  @media (min-width: 768px) {
+    ul {
+      font-size: 16px;
+      line-height: 1.6;
+      margin: 0 0 35px; } }
+
 a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;

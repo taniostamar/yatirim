@@ -23,7 +23,7 @@ h5,
 h6 {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  margin: 0 0 35px;
+  margin: 0 0 25px;
   letter-spacing: 1px;
   }
 
@@ -150,8 +150,8 @@ a {
     background: rgba(255, 255, 255, 0.1); }
 
 .content-section {
-  padding-top: 100px;
-  padding-bottom: 50px; }
+  padding-top: 150px;
+  padding-bottom: 10px; }
 
 .bg-light {
   padding-top: 100px;
@@ -182,8 +182,8 @@ a {
 
 @media (min-width: 992px) {
   .content-section {
-    padding-top: 100px;
-    padding-bottom: 100px; }
+    padding-top: 150px;
+    padding-bottom: 10px; }
   #map {
     height: 350px; } }
 

@@ -259,10 +259,23 @@ body {
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
-  -webkit-transition: all ease 0.5s;
+/*  -webkit-transition: all ease 0.5s;
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
+  background-color: rgba(24, 188, 156, 0.9);*/
+
+  align-items: center;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: opacity 0.25s;
+  z-index: 1;
   background-color: rgba(24, 188, 156, 0.9);
 }
 
